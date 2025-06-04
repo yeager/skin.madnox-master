@@ -11,8 +11,11 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">A feature rich and fully customisable skin</summary>
+        <summary lang="sv_SE">Ett funktionsrikt och helt anpassningsbart skal/summary>
         <description lang="en_GB">Madnox stands for eye candy and customization. There are many different views and options to present your media in the way you want it. All views are fully customizable. You can change the look with different styles, themes and options.</description>
+        <description lang="sv_SE">Madnox står för ögongodis och anpassningsbarhet. Det finns många olika vyer och alternativ för att presentera dina medier på det sätt du vill. Alla vyer är helt anpassningsbara. Du kan ändra utseendet med olika stilar, teman och alternativ.</description>
         <disclaimer lang="en_GB">Madnox is the successor to Aeon Madnox by Mike_Doc, schimi2k and MeowMoo. It is a skin based on the design of Aeon by djh_ and Aeon Nox 4 by BigNoid and phil65. All credits to the makers of these skins and mods.</disclaimer>
+        <disclaimer lang="sv_SE">Madnox är efterföljaren till Aeon Madnox av Mike_Doc, schimi2k och MeowMoo. Det är ett skal baserat på designen av Aeon av djh_ och Aeon Nox 4 av BigNoid och phil65. Tack till skaparna av dessa skal och moddar.</disclaimer>
         <platform>all</platform>
         <license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
         <forum></forum>
